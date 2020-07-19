@@ -1,7 +1,7 @@
 # **Trouble Project**
 ## Kshitij Gurung, 4/16/2020
 
-In the game Trouble the goal is to move a bunch of markers from a starting point all the way to
+In the game Trouble, the goal is to move a bunch of markers from a starting point all the way to
 the ending point. Ignoring some subtleties of the game, the basic move is very simple:
 - You roll a standard 6-sided die.
 - You move your marker the number of spaces equal to the value on the die.
